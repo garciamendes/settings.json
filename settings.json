@@ -27,6 +27,7 @@
     "mappers": "meta",
     "_shared": "shared",
     "eslint-config": "tools",
+    "kube": "kubernetes"
     },
 
     "material-icon-theme.files.associations": {
