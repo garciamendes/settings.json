@@ -1,0 +1,57 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "domain": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "providers": "include",
+    "subscribers": "messages",
+    "useCases": "controller",
+    "kafka": "scripts",
+    "mappers": "meta",
+    "_shared": "shared",
+    "eslint-config": "tools",
+    "kube": "kubernetes"
+    },
+
+    "material-icon-theme.files.associations": {
+      "ormconfig.json": "database",
+      "tsconfig.json": "tune",
+      "*.proto": "3d",
+      "*.webpack.js": "webpack"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.colorTheme": "Dracula",
+    "editor.renderControlCharacters": true,
+    "window.zoomLevel": -1,
+    "rsp-ui.enableStartServerOnActivation": [
+      {
+        "id": "redhat.vscode-community-server-connector",
+        "name": "Community Server Connector",
+        "startOnActivation": true
+      }
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+}
