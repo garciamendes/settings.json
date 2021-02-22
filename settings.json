@@ -1,5 +1,7 @@
 {
   "workbench.iconTheme": "material-icon-theme",
+  
+  "explorer.compactFolders": false,
 
   "editor.fontFamily": "'Fira Code'",
   "editor.fontLigatures": true,
