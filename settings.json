@@ -41,6 +41,11 @@
     "[javascript]": {
       "editor.defaultFormatter": "vscode.typescript-language-features"
     },
+    
+    "typescript.tsserver.log": "verbose",
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+  
     "workbench.colorTheme": "Dracula",
     "editor.renderControlCharacters": true,
     "window.zoomLevel": -1,
